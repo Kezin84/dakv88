@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import { onMounted } from 'vue';
+import { Analytics } from '@vercel/analytics/vue';
 import AOS from 'aos';
 import SiteHeader from './components/SiteHeader.vue';
 import MainSections from './components/MainSections.vue';
@@ -22,6 +23,7 @@ onMounted(() => {
   <MainSections />
   <SiteFooter />
   <FloatingActions />
+  <Analytics />
 </template>
 
 <style>
