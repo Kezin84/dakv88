@@ -80,7 +80,7 @@ const sections = [
   }
 ];
 
-const trialLink = "https://www.kiotviet.vn/?refcode=3670";
+const trialLink = "https://www.kiotviet.vn/?refcode=13563";
 
 const handleCtaClick = (action: string) => {
   if (action === 'link') {
