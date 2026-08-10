@@ -1,6 +1,6 @@
 <script setup lang="ts">
 // Actual KiotViet trial link
-const trialLink = "https://www.kiotviet.vn/?refcode=3670";
+const trialLink = "https://www.kiotviet.vn/?refcode=13563";
 </script>
 
 <template>
