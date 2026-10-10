@@ -21,7 +21,7 @@ const communities = [
   {
     title: 'Tư Vấn Lắp Đặt Phần Mềm KiotViet',
     desc: 'Kênh Telegram hỗ trợ trực tiếp',
-    url: 'https://t.me/dakv88channel',
+    url: 'https://demo.nguyentrungba.com/phan-mem-ban-hang-kiotviet',
     id: 'telegram'
   }
 ];
